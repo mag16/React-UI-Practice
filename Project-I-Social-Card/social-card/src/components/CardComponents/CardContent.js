@@ -4,12 +4,12 @@ import "./Card.css";
 
 const CardContent = () => {
     return (
-        <div className ="getstarted">
-            <h1>Get started with React</h1>
-            <p>React makes it painless to create interactive UIs. Design simple views for</p>
-            <p>each state in your application.</p>
+        <div>
+            <h1 className="react"> Get started with React</h1>
+            <p className="sentenceal"> React makes it painless to create interactive UIs. Design simple views for</p>
+            <p className="sentenceal">each state in your application.</p>
         
-            <p className="reactorg"><a href="https:reactjs.org">reactjs.org</a></p>
+            <p className="reactorg">reactjs.org</p>
         </div>
         
     )
