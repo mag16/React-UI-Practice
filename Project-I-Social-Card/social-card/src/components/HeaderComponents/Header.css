@@ -1,1 +1,51 @@
 /* All styles for your header Components live here */
+
+.header-container {
+
+    width: 700px;
+    padding: 08px;
+   
+
+}
+
+
+.lambdacrest {
+display: inline-block;
+position: relative;
+width: 100px;
+height: 100px;
+overflow: hidden;
+border-radius: 50%;
+
+
+}
+
+.lambdacrest img {
+width: auto;
+height: 100%;
+margin-left: -50px;
+}
+
+.header-title {
+    position: absolute;
+    top: 08px;
+    margin-left: 120px;
+    font-size: 12px;
+}
+
+.header-title .lambda-at {
+    position: absolute;
+    top: 12.5px;
+    margin-left: 190px;
+    font-size: 13px;
+    color: grey;
+
+}
+
+.header-content {
+    
+    margin-top: -70px;
+    margin-left: 120px;
+    line-height: 1.0;
+}
+

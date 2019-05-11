@@ -1,1 +1,29 @@
 /* All styles for your Card Components live here */
+ 
+.card-container {
+
+    width: 700px;
+    padding: 08px;
+
+
+}
+
+
+.card-banner {
+margin-top:-1px;
+margin-left: 125px;
+width: 560px;
+height: auto;
+    
+}
+
+.getstarted {
+font-size: 15px;
+margin-left: 150px;
+line-height: 1.0;
+    
+}
+
+.getstarted .reactorg {
+    color: grey;   
+}
