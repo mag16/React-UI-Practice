@@ -12,15 +12,13 @@ const Footer = () => {
     return (
         <div className="footer-emotes">
             
-            <MessageCircle />
+            <MessageCircle color="rgb(101, 119, 134)"/>
             <RefreshCw className="refresh" />
-            <Heart className="heart"/>
+            <Heart className="heart" color="rgb(101, 119, 134)"/>
             <Mail className= "mail" />
            
             
         </div>
-
-
     )
 
 
