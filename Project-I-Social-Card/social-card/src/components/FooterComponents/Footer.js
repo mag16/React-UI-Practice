@@ -14,7 +14,7 @@ const Footer = () => {
             
             <MessageCircle color="rgb(101, 119, 134)"/>
             <RefreshCw className="refresh" />
-            <Heart className="heart" color="rgb(101, 119, 134)"/>
+            <Heart className="heart" />
             <Mail className= "mail" />
            
             
