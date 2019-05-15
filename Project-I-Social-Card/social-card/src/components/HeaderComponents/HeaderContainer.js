@@ -2,14 +2,14 @@ import React from 'react';
 import './Header.css';
 
 import ImageThumbnail from './ImageThumbnail';
-import HeaderTitle from './HeaderTitle';
+import Clock from './Clock';
 import HeaderContent from './HeaderContent';
 
 const HeaderContainer = () => {
     return (
         <div className="header-container">
             <ImageThumbnail />
-            <HeaderTitle/>
+            <Clock/>
             <HeaderContent/>
 
         </div>

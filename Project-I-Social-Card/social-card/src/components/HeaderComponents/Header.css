@@ -34,8 +34,8 @@ margin-left: -50px;
 }
 
 .header-title .lambda-at {
-    position: absolute;
-    top: 12.5px;
+    position: relative;
+    top: -35px;
     margin-left: 190px;
     font-size: 13px;
     color: grey;

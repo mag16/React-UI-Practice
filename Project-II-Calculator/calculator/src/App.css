@@ -1,0 +1,10 @@
+.Calculator-containter {
+
+    opacity: 0.5;
+    width: 455.2px;
+    height: 596px;
+    margin: 0px;
+    padding: 0px;
+    pointer-events: auto;
+    background-color: red;
+}
